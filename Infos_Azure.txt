@@ -1,0 +1,4 @@
+Nome do Servidor: rodrigotestefinal123
+Nome do Host: rodrigotestefinal123.mysql.database.azure.com
+Username: rodrigosomativa
+Senha: banco@123
